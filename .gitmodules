@@ -1,0 +1,6 @@
+[submodule "quote-server"]
+	path = quote-server
+	url = https://github.com/planetaska/quote-server
+[submodule "quote-client"]
+	path = quote-client
+	url = https://github.com/planetaska/quote-client
